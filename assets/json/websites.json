@@ -1,5 +1,45 @@
 [
     {
+        "id": "password-locker",
+        "title": "Password Locker",
+        "description": "Password Locker is a secure, personal password manager web application with a desktop-style (Windows-inspired) interface and a UI/UX themed around Needy Streamer Overload. Built entirely with HTML, CSS, and vanilla JavaScript, it runs fully client-side, so no user data is stored in the browser or sent online. Credentials live only inside a user-held encrypted text file that can be decrypted with the owner's passkey.<br><br>Encryption is handled by the browser's native <b>Web Crypto API</b> using <b>AES-256-GCM</b> authenticated encryption. Keys are derived from the user's passkey with <b>PBKDF2 (SHA-256, 100,000 iterations)</b> and a unique random salt and nonce per encryption, so the encrypted output cannot be decrypted without the passkey and the app's own script. To discourage brute-force attempts, the app enforces a <b>failed-attempt limit with a timed lockout</b> and a deliberate delay after each wrong passkey.<br><br>The app includes a <b>Decryption Window</b> that unlocks the password list from an encrypted message and passkey, with one-click copy buttons for usernames, emails, and passwords, plus show/hide toggles and a clipboard-safety reminder. The vault view <b>auto-closes after 3 minutes</b> for added security. The <b>Encryption/Creation Window</b> lets users add entries with a title, website (which makes the title a clickable link), username, email, password, and filterable categories, then set a passkey to generate an encrypted text that can be copied or downloaded as a .txt file. An <b>Edit Mode</b> lets users decrypt an existing list to add, modify, or delete entries and re-encrypt it, and a <b>Search Function</b> filters rows by title, website, username, email, or category while viewing or editing. A built-in <b>Password Generator</b> with a custom slider creates random strings of 8 to 50 characters, with options for uppercase, lowercase, digits, and symbols.<br><br>The windowed UI supports draggable, minimizable, and closable windows with a taskbar, a live date/time clock, and in-app notifications. Website icons and category lists are fetched from a separate GitHub-hosted CSV repository (with a local fallback), so they can be updated without touching the app. This is a solo project built for personal use that emphasizes client-side security, privacy, and a distinctive interface.",
+        "year": "2025",
+        "tools": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "roles": [
+            "Frontend Developer"
+        ],
+        "additional": [
+            "Solo project"
+        ],
+        "filePath": "/assets/img/WebDev/PasswordLocker",
+        "media": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp",
+            "7.webp",
+            "8.webp",
+            "9.webp",
+            "10.webp",
+            "11.webp",
+            "12.webp",
+            "13.webp"
+        ],
+        "additionalMedia": {
+        },
+        "collaborators": {
+        },
+        "remarks": [
+            "solo"
+        ]
+    },
+    {
         "id": "ciit-shop",
         "title": "CIIT's S.H.O.P.",
         "description": "The \"CIIT's Sales Handling for Organizations Portal\" is a centralized web application designed to streamline sales and inventory management for Recognized Student Organizations (RSOs) at CIIT College of Arts and Technology. This innovative platform automates receipt generation, integrates a customizable Point of Sale (POS) system, and provides a unified portal for efficient transaction processing.<br><br>Accessible on both mobile and desktop, the portal enhances user experience by reducing manual processes, minimizing errors, and ensuring faster transactions. Aligned with CIIT's commitment to a paper-free environment, this solution empowers RSOs to focus on their core activities while improving satisfaction for both sellers and buyers.",
