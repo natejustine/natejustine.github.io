@@ -1344,7 +1344,7 @@ function setParent(parent, child){
 }
 
 function replaceNullImage(img){
-    img.src = `./assets/img/null.png`;
+    img.src = `./assets/img/null.webp`;
 }
 
 function hasFileExtension(filename) {
