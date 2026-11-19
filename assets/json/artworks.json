@@ -8,7 +8,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D", "Based on Akko Cream Blues Keyboard Switch"],
       "filePath": "/assets/img/3D/kb_switch",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg","8.jpg","9.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp","9.webp"],
       "remarks": ["featured"]
     },
     {
@@ -20,7 +20,7 @@
       "roles": ["3D Artist", "Texture Artist"],
       "additional":  ["Made using Blender 3D", "Textured using Substance Painter", "Based on Nintendo GAMEBOY Advance SP"],
       "filePath": "/assets/img/3D/gbasp",
-      "media": [ "1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg", "8.jpg", "9.jpg", "10.jpg", "11.jpg", "12.jpg", "13.jpg", "14.jpg", "15.jpg", "16.jpg", "17.jpg", "18.jpg", "19.jpg", "20.jpg", "21.jpg", "22.jpg", "23.jpg", "24.jpg", "25.jpg", "26.jpg", "27.jpg", "28.jpg", "29.jpg", "30.jpg", "31.jpg", "32.jpg", "33.jpg" ],
+      "media": [ "1.webp", "2.webp", "3.webp", "4.webp", "5.webp", "6.webp", "7.webp", "8.webp", "9.webp", "10.webp", "11.webp", "12.webp", "13.webp", "14.webp", "15.webp", "16.webp", "17.webp", "18.webp", "19.webp", "20.webp", "21.webp", "22.webp", "23.webp", "24.webp", "25.webp", "26.webp", "27.webp", "28.webp", "29.webp", "30.webp", "31.webp", "32.webp", "33.webp" ],
       "remarks": []
     },
     {
@@ -32,7 +32,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D", "Based on Jisulife Pro1s"],
       "filePath": "/assets/img/3D/jisu",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg","8.jpg","9.jpg","10.jpg","11.jpg","12.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp","9.webp","10.webp","11.webp","12.webp"],
       "remarks": []
     },
     {
@@ -44,7 +44,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D", "Based on Attack Shark X6"],
       "filePath": "/assets/img/3D/mouse",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp"],
       "remarks": []
     },
     {
@@ -56,7 +56,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D", "Based on Glorius Gaming GMMK Macro Numpad"],
       "filePath": "/assets/img/3D/macro",
-      "media":  ["1.png","2.png","3.png"],
+      "media":  ["1.webp","2.webp","3.webp"],
       "remarks": []
     },
     {
@@ -68,7 +68,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D", "Based on Original Nintendo Switch"],
       "filePath": "/assets/img/3D/nintendo_switch",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg","8.jpg","9.jpg","10.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp","9.webp","10.webp"],
       "remarks": []
     },
     {
@@ -80,7 +80,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D", "Based on Sony PSP Slim"],
       "filePath": "/assets/img/3D/psp",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg","8.jpg","9.jpg","10.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp","9.webp","10.webp"],
       "remarks": []
     },
     {
@@ -92,7 +92,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D", "Based on Classic Nintendo GAMEBOY"],
       "filePath": "/assets/img/3D/gameboy",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg","8.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp"],
       "remarks": ["featured"]
     },
     {
@@ -104,7 +104,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D", "Based on Classic Atari Game Console"],
       "filePath": "/assets/img/3D/atari",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp"],
       "remarks": []
     },
     {
@@ -116,7 +116,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D", "Based on Classic Family Copmuter Console"],
       "filePath": "/assets/img/3D/famicom",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp"],
       "remarks": []
     },
     {
@@ -128,7 +128,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D", "Based on the original Sony PS1"],
       "filePath": "/assets/img/3D/ps1",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp"],
       "remarks": []
     },
     {
@@ -140,7 +140,7 @@
       "roles": ["3D Artist", "Texture Artist"],
       "additional":  ["Made using Blender 3D", "Modeled based on my personal computer", "Challenge project to create good looking renders with least poly count possible"],
       "filePath": "/assets/img/3D/pc2025",
-      "media":  ["1.png","2.png","3.png","4.png","5.png","6.png","7.png","8.png","9.png"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp","9.webp"],
       "remarks": ["featured"]
     },
     {
@@ -152,7 +152,7 @@
       "roles": ["3D Artist","Animator"],
       "additional":  ["Made using Blender 3D", "I wanted to create an animation that captures the feeling of a typical childhood afternoon of mine."],
       "filePath": "/assets/img/3D/hapon",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp"],
       "remarks": ["quoted"]
     },
     {
@@ -164,7 +164,7 @@
       "roles": ["3D Artist","Texture Artist"],
       "additional":  ["Made using Blender 3D and Substance Painter", "Challenge project to recreate B12 from the game STRAY"],
       "filePath": "/assets/img/3D/b12",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp"],
       "remarks": []
     },
     {
@@ -176,7 +176,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D", "Modeled after my dream room setup"],
       "filePath": "/assets/img/3D/room2020",
-      "media":  ["1.png","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg","8.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp"],
       "remarks": []
     },
     {
@@ -188,7 +188,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D","Featured in Phillipine Star"],
       "filePath": "/assets/img/3D/almusal",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp"],
       "remarks": ["featured"]
     },
     {
@@ -200,7 +200,7 @@
       "roles": ["3D Modeler"],
       "additional":  ["Made using Blender 3D","Client-Based Project", "I was given an architectural design and tasked to make a render"],
       "filePath": "/assets/img/3D/pjpRender",
-      "media":  ["1.png","2.jpg","3.jpg","4.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp"],
       "remarks": []
     },
     {
@@ -212,7 +212,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D","Client-Based Project"],
       "filePath": "/assets/img/3D/pjpCover",
-      "media":  ["1.png","2.png","3.png"],
+      "media":  ["1.webp","2.webp","3.webp"],
       "remarks": []
     },
     {
@@ -224,7 +224,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D", "This is one of my very first 3D models I created", "Twice!"],
       "filePath": "/assets/img/3D/cbz2020",
-      "media":  ["1.png","2.jpg","3.jpg","4.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp"],
       "remarks": []
     },
     {
@@ -236,7 +236,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D","3D and Contemporary version based on the Rene Margtitte's Les Valeurs Personnelles (1952, Oil on canvas) painting."],
       "filePath": "/assets/img/3D/artApp",
-      "media":  ["1.png"],
+      "media":  ["1.webp"],
       "remarks": ["quoted"]
     },
     {
@@ -248,7 +248,7 @@
       "roles": [],
       "additional":  ["Made using Blender 3D"],
       "filePath": "/assets/img/3D/pc2020",
-      "media":  ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp"],
       "remarks": ["hide"]
     },
     {
@@ -260,7 +260,7 @@
       "roles": ["3D Artist","Texture Artist"],
       "additional":  ["Made using Blender 3D","Client-Based Project"],
       "filePath": "/assets/img/3D/tape",
-      "media":  ["1.png","2.jpg","3.jpg","4.jpg"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp"],
       "remarks": []
     },
     {
@@ -272,7 +272,7 @@
       "roles": ["3D Artist", "Texture Artist"],
       "additional":  ["Made using Blender 3D","Client-Based Project"],
       "filePath": "/assets/img/3D/onezo",
-      "media":  ["1.jpg","2.png","3.png"],
+      "media":  ["1.webp","2.webp","3.webp"],
       "remarks": []
     },
     {
@@ -284,7 +284,7 @@
       "roles": ["3D Artist", "Texture Artist"],
       "additional":  ["Made using Blender 3D","Client-Based Project"],
       "filePath": "/assets/img/3D/kharis",
-      "media":  ["1.png","2.png","3.png","4.png"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp"],
       "remarks": []
     },
     {
@@ -296,7 +296,7 @@
       "roles": ["3D Artist","Animator"],
       "additional":  ["Made using Blender 3D", "Modelled after the Redmi Note 11 Pro 5g"],
       "filePath": "/assets/img/3D/redmi",
-      "media":  ["1.png","2.png","-wAwGYd4z1A"],
+      "media":  ["1.webp","2.webp","-wAwGYd4z1A"],
       "remarks": []
     },
     {
@@ -308,7 +308,7 @@
       "roles": ["3D Artist"],
       "additional":  ["Made using Blender 3D","Client-Based Project"],
       "filePath": "/assets/img/3D/laney",
-      "media":  ["1.png","2.png","3.png","4.png","5.png","6.png"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp"],
       "remarks": []
     },
     {
@@ -320,7 +320,7 @@
       "roles": ["Concept Artist"],
       "additional":  ["Made with Rebelle Pro", "Challenge project to generate a concept art based on random strings"],
       "filePath": "/assets/img/concept art/1",
-      "media":  ["1.png","2.png","3.png","4.png","5.png"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp"],
       "remarks": []
     },
     {
@@ -332,7 +332,7 @@
       "roles": ["Concept Artist"],
       "additional":  ["Made with Rebelle Pro", "Challenge project to generate a concept art based on random strings"],
       "filePath": "/assets/img/concept art/2",
-      "media":  ["1.png","2.png","3.png"],
+      "media":  ["1.webp","2.webp","3.webp"],
       "remarks": []
     },
     {
@@ -344,7 +344,7 @@
       "roles": ["Storyboard Artist"],
       "additional":  ["Made with Rebelle Pro"],
       "filePath": "/assets/img/concept art/3",
-      "media":  ["1.png","2.png"],
+      "media":  ["1.webp","2.webp"],
       "remarks": []
     },
     {
@@ -356,7 +356,7 @@
       "roles": ["Concept Artist", "Level Designer"],
       "additional":  ["Made with Adobe Photoshop", "Level deaign for a game concept."],
       "filePath": "/assets/img/Map Design/sotu",
-      "media":  ["1.png","2.png","3.png","4.png","5.png","6.png","7.png","8.png"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp"],
       "remarks": []
     },
     {
@@ -368,7 +368,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Photoshop and Illustrator","Client-Based Project"],
       "filePath": "/assets/img/Graphic Design",
-      "media":  ["athena.jpg"],
+      "media":  ["athena.webp"],
       "remarks": []
     },
     {
@@ -380,7 +380,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Photoshop and Illustrator","Client-Based Project"],
       "filePath": "/assets/img/Graphic Design",
-      "media":  ["chloe.jpg"],
+      "media":  ["chloe.webp"],
       "remarks": []
     },
     {
@@ -392,7 +392,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Photoshop and Illustrator","Client-Based Project"],
       "filePath": "/assets/img/Graphic Design",
-      "media":  ["wendi.jpg"],
+      "media":  ["wendi.webp"],
       "remarks": []
     },
     {
@@ -404,7 +404,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Photoshop","Volunteer Project"],
       "filePath": "/assets/img/Graphic Design",
-      "media":  ["pup.jpg"],
+      "media":  ["pup.webp"],
       "remarks": []
     },
     {
@@ -416,7 +416,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Illustrator","Client-Based Project"],
       "filePath": "/assets/img/Graphic Design/knb",
-      "media":  ["1.png","2.png","3.png","4.png","5.png"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp"],
       "remarks": []
     },
     {
@@ -428,7 +428,7 @@
       "roles": ["Graphic Artist","3D Artist"],
       "additional":  ["Made using Blender 3D"],
       "filePath": "/assets/img/Graphic Design/gtf",
-      "media":  ["1.png","2.png","3.png"],
+      "media":  ["1.webp","2.webp","3.webp"],
       "remarks": []
     },
     {
@@ -440,7 +440,7 @@
       "roles": ["Graphic Artist", "3D Artist"],
       "additional":  ["Made using Blender 3D and Adobe Illustrator"],
       "filePath": "/assets/img/Graphic Design/critmedia",
-      "media":  ["1.png","2.png","3.png","4.png"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp"],
       "remarks": []
     },
     {
@@ -452,7 +452,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Illustrator","Client-Based Project"],
       "filePath": "/assets/img/Graphic Design/omd",
-      "media":  ["2.png","1.png","3.png","4.png","5.png"],
+      "media":  ["2.webp","1.webp","3.webp","4.webp","5.webp"],
       "remarks": []
     },
     {
@@ -464,7 +464,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Illustrator","Client-Based Project"],
       "filePath": "/assets/img/logo",
-      "media":  ["1.png"],
+      "media":  ["1.webp"],
       "remarks": []
     },
     {
@@ -476,7 +476,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Illustrator"],
       "filePath": "/assets/img/logo",
-      "media":  ["2.jpg"],
+      "media":  ["2.webp"],
       "remarks": []
     },
     {
@@ -488,7 +488,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Illustrator"],
       "filePath": "/assets/img/logo",
-      "media":  ["3.jpg"],
+      "media":  ["3.webp"],
       "remarks": []
     },
     {
@@ -500,7 +500,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Illustrator","Client-Based Project","for mi father"],
       "filePath": "/assets/img/logo",
-      "media":  ["4.jpg"],
+      "media":  ["4.webp"],
       "remarks": []
     },
     {
@@ -512,7 +512,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Illustrator","Client-Based Project"],
       "filePath": "/assets/img/logo",
-      "media":  ["5.jpg"],
+      "media":  ["5.webp"],
       "remarks": []
     },
     {
@@ -524,7 +524,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Illustrator","Client-Based Project"],
       "filePath": "/assets/img/logo",
-      "media":  ["6.jpg"],
+      "media":  ["6.webp"],
       "remarks": []
     },
     {
@@ -536,7 +536,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Illustrator","Client-Based Project"],
       "filePath": "/assets/img/logo",
-      "media":  ["7.jpg"],
+      "media":  ["7.webp"],
       "remarks": []
     },
     {
@@ -548,7 +548,7 @@
       "roles": ["Graphic Artist"],
       "additional":  ["Made with Adobe Illustrator"],
       "filePath": "/assets/img/logo",
-      "media":  ["8.jpg"],
+      "media":  ["8.webp"],
       "remarks": []
     },
     {
@@ -560,7 +560,7 @@
       "roles": ["UI Designer"],
       "additional":  ["Made with Adobe Illustrator"],
       "filePath": "/assets/img/UI/ligma",
-      "media":  ["1.png","2.png","3.png","4.png","5.png","6.png","7.png","8.png","9.png","10.png","11.png","12.png","13.png","14.png","15.png","16.png"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp","9.webp","10.webp","11.webp","12.webp","13.webp","14.webp","15.webp","16.webp"],
       "remarks": []
     },
     {
@@ -573,10 +573,10 @@
       "additional":  ["Can be seen on Websites page!"],
       "filePath": "/assets/img/WebDev/SHOP",
       "media": [
-        "1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg", "8.jpg", "9.jpg", "10.jpg",
-        "11.jpg", "12.jpg", "13.jpg", "14.jpg", "15.jpg", "16.jpg", "17.jpg", "18.png", "19.jpg", "20.jpg",
-        "21.jpg", "22.jpg", "23.jpg", "24.jpg", "25.jpg", "26.jpg", "27.jpg", "28.jpg", "29.jpg", "30.jpg",
-        "31.jpg", "32.jpg", "33.jpg", "34.jpg"
+        "1.webp", "2.webp", "3.webp", "4.webp", "5.webp", "6.webp", "7.webp", "8.webp", "9.webp", "10.webp",
+        "11.webp", "12.webp", "13.webp", "14.webp", "15.webp", "16.webp", "17.webp", "18.webp", "19.webp", "20.webp",
+        "21.webp", "22.webp", "23.webp", "24.webp", "25.webp", "26.webp", "27.webp", "28.webp", "29.webp", "30.webp",
+        "31.webp", "32.webp", "33.webp", "34.webp"
       ],
       "remarks": []
     },
@@ -590,10 +590,10 @@
       "additional":  ["Can be seen on Websites page!"],
       "filePath": "/assets/img/WebDev/Gizmoverse",
       "media": [
-        "1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg", "8.jpg", "9.jpg", "10.jpg",
-        "11.jpg", "12.jpg", "13.jpg", "14.jpg", "15.jpg", "17.jpg", "18.jpg", "19.jpg", "20.jpg",
-        "21.jpg", "22.jpg", "23.jpg", "24.jpg", "25.jpg", "26.jpg", "27.jpg", "28.jpg", "29.jpg", "30.jpg",
-        "31.jpg", "32.jpg", "33.jpg", "34.jpg"
+        "1.webp", "2.webp", "3.webp", "4.webp", "5.webp", "6.webp", "7.webp", "8.webp", "9.webp", "10.webp",
+        "11.webp", "12.webp", "13.webp", "14.webp", "15.webp", "17.webp", "18.webp", "19.webp", "20.webp",
+        "21.webp", "22.webp", "23.webp", "24.webp", "25.webp", "26.webp", "27.webp", "28.webp", "29.webp", "30.webp",
+        "31.webp", "32.webp", "33.webp", "34.webp"
       ],
       "remarks": []
     },
@@ -607,8 +607,8 @@
       "additional":  ["Can be seen on Websites page!"],
       "filePath": "/assets/img/WebDev/Deadpool",
       "media": [
-        "1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg", "8.jpg", "9.jpg", "10.jpg",
-        "11.jpg", "12.jpg", "13.jpg", "14.jpg", "15.jpg"],
+        "1.webp", "2.webp", "3.webp", "4.webp", "5.webp", "6.webp", "7.webp", "8.webp", "9.webp", "10.webp",
+        "11.webp", "12.webp", "13.webp", "14.webp", "15.webp"],
       "remarks": []
     },
     {
@@ -620,7 +620,7 @@
       "roles": ["Artist"],
       "additional":  ["Made with Adobe Photoshop","Challenge project inspired by Makoto Shinkai's artstyle"],
       "filePath": "/assets/img/Illustrations/komyut",
-      "media":  ["1.png","2.gif"],
+      "media":  ["1.webp","2.webp"],
       "remarks": ["quoted", "featured"]
     },
     {
@@ -632,7 +632,7 @@
       "roles": ["Artist"],
       "additional":  ["Made with Rebelle Pro", "Artwork that shows the current state of the Philippines"],
       "filePath": "/assets/img/Illustrations/barya",
-      "media":  ["1.png"],
+      "media":  ["1.webp"],
       "remarks": ["quoted"]
     },
     {
@@ -644,7 +644,7 @@
       "roles": ["Artist"],
       "additional":  ["Made with Adobe Photoshop", "Entry for a competition"],
       "filePath": "/assets/img/Illustrations/lone",
-      "media":  ["0.png","1.png","2.png","3.png","4.png","5.png","6.png"],
+      "media":  ["0.webp","1.webp","2.webp","3.webp","4.webp","5.webp","6.webp"],
       "remarks": ["quoted"]
     },
     {
@@ -656,7 +656,7 @@
       "roles": ["Artist"],
       "additional":  ["Made with Adobe Photoshop","Challenge project inspired by Studio Ghibli's background art"],
       "filePath": "/assets/img/Illustrations/baliktanaw",
-      "media":  ["1.png","2.png","3.png","4.png","5.png"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp"],
       "remarks": ["quoted"]
     },
     {
@@ -668,7 +668,7 @@
       "roles": ["Artist"],
       "additional":  ["Made with Adobe Photoshop", "Artwork that best represent my 'self'"],
       "filePath": "/assets/img/Illustrations/sunder",
-      "media":  ["1.png","2.png"],
+      "media":  ["1.webp","2.webp"],
       "remarks": ["quoted"]
     },
     {
@@ -680,7 +680,7 @@
       "roles": ["Artist"],
       "additional":  ["Made with Adobe Photoshop"],
       "filePath": "/assets/img/Illustrations/mask",
-      "media":  ["1.png","2.png","3.png","4.png","5.png"],
+      "media":  ["1.webp","2.webp","3.webp","4.webp","5.webp"],
       "remarks": ["quoted"]
     },
     {
@@ -692,7 +692,7 @@
       "roles": ["Artist"],
       "additional":  ["Made with Adobe Photoshop"],
       "filePath": "/assets/img/Illustrations/last",
-      "media":  ["1.png","2.png"],
+      "media":  ["1.webp","2.webp"],
       "remarks": ["quoted"]
     },
     {
@@ -704,7 +704,7 @@
       "roles": ["Artist", "Graphic Artist"],
       "additional":  ["Made with Adobe Photoshop", "Poster for our short film PANSIN"],
       "filePath": "/assets/img/Illustrations",
-      "media":  ["1.png"],
+      "media":  ["1.webp"],
       "remarks": []
     },
     {
@@ -716,7 +716,7 @@
       "roles": ["Artist"],
       "additional":  ["Made with Adobe Photoshop", "Client-Based Project"],
       "filePath": "/assets/img/Illustrations",
-      "media":  ["2.jpg"],
+      "media":  ["2.webp"],
       "remarks": []
     },
     {
@@ -728,7 +728,7 @@
       "roles": ["Artist"],
       "additional":  ["Made with Adobe Photoshop", "Client-Based Project"],
       "filePath": "/assets/img/Illustrations",
-      "media":  ["3.png"],
+      "media":  ["3.webp"],
       "remarks": []
     },
     {
@@ -740,7 +740,7 @@
       "roles": ["Artist"],
       "additional":  ["Made with Adobe Photoshop", "Client-Based Project"],
       "filePath": "/assets/img/Illustrations",
-      "media":  ["4.jpg"],
+      "media":  ["4.webp"],
       "remarks": []
     },
     {
@@ -752,7 +752,7 @@
       "roles": ["Artist"],
       "additional":  ["Made with Adobe Photoshop", "Client-Based Project"],
       "filePath": "/assets/img/Illustrations",
-      "media":  ["5.png"],
+      "media":  ["5.webp"],
       "remarks": []
     },
     {
@@ -764,7 +764,7 @@
       "roles": ["Artist"],
       "additional":  ["Made with Adobe Photoshop", "Client-Based Project"],
       "filePath": "/assets/img/Illustrations",
-      "media":  ["6.png"],
+      "media":  ["6.webp"],
       "remarks": []
     },
     {
@@ -776,7 +776,7 @@
       "roles": ["Painter", "Artist"],
       "additional":  ["Acrylic on canvas"],
       "filePath": "/assets/img/Traditional",
-      "media":  ["1.jpg"],
+      "media":  ["1.webp"],
       "remarks": ["quoted"]
     },
     {
@@ -788,7 +788,7 @@
       "roles": ["Painter", "Artist"],
       "additional":  ["Acrylic on canvas"],
       "filePath": "/assets/img/Traditional",
-      "media":  ["2.jpg"],
+      "media":  ["2.webp"],
       "remarks": ["quoted"]
     },
     {
@@ -800,7 +800,7 @@
       "roles": ["Painter", "Artist"],
       "additional":  ["Acrylic on canvas"],
       "filePath": "/assets/img/Traditional",
-      "media":  ["3.jpg"],
+      "media":  ["3.webp"],
       "remarks": ["quoted", "featured"]
     },
     {
@@ -812,7 +812,7 @@
       "roles": ["Artist"],
       "additional":  ["Ballpoint Pens"],
       "filePath": "/assets/img/Traditional",
-      "media":  ["5.jpg","v9T-HKsKoDw"],
+      "media":  ["5.webp","v9T-HKsKoDw"],
       "remarks": []
     },
     {
@@ -824,7 +824,7 @@
       "roles": ["Artist"],
       "additional":  ["Colored Pencils"],
       "filePath": "/assets/img/Traditional",
-      "media":  ["6.jpg"],
+      "media":  ["6.webp"],
       "remarks": []
     },
     {
@@ -836,7 +836,7 @@
       "roles": ["Artist"],
       "additional":  ["Colored Pencils"],
       "filePath": "/assets/img/Traditional",
-      "media":  ["7.jpg"],
+      "media":  ["7.webp"],
       "remarks": []
     },
     {
@@ -848,7 +848,7 @@
       "roles": ["Artist"],
       "additional":  ["Colored Pencils"],
       "filePath": "/assets/img/Traditional",
-      "media":  ["8.jpg"],
+      "media":  ["8.webp"],
       "remarks": []
     },
     {
@@ -860,7 +860,7 @@
       "roles": ["Artist"],
       "additional":  ["Colored Pencils"],
       "filePath": "/assets/img/Traditional",
-      "media":  ["9.jpg"],
+      "media":  ["9.webp"],
       "remarks": []
     },
     {
@@ -872,7 +872,7 @@
       "roles": ["Artist"],
       "additional":  ["Colored Pencils"],
       "filePath": "/assets/img/Traditional",
-      "media":  ["10.jpg"],
+      "media":  ["10.webp"],
       "remarks": []
     },
     {
@@ -884,7 +884,7 @@
       "roles": ["Photographer"],
       "additional":  ["Macro photography"],
       "filePath": "/assets/img/photography",
-      "media":  ["1.jpg"],
+      "media":  ["1.webp"],
       "remarks": []
     },
     {
@@ -896,7 +896,7 @@
       "roles": ["Photographer"],
       "additional":  ["Macro photography"],
       "filePath": "/assets/img/photography",
-      "media":  ["2.jpg"],
+      "media":  ["2.webp"],
       "remarks": []
     },
     {
@@ -908,7 +908,7 @@
       "roles": ["Photographer"],
       "additional":  ["Long exposure","Somewhere in Golden Hills"],
       "filePath": "/assets/img/photography",
-      "media":  ["3.jpg"],
+      "media":  ["3.webp"],
       "remarks": []
     },
     {
@@ -920,7 +920,7 @@
       "roles": ["Photographer"],
       "additional":  [],
       "filePath": "/assets/img/photography",
-      "media":  ["4.jpg"],
+      "media":  ["4.webp"],
       "remarks": []
     },
     {
@@ -932,7 +932,7 @@
       "roles": ["Photographer"],
       "additional":  ["Macro photography"],
       "filePath": "/assets/img/photography",
-      "media":  ["5.jpg"],
+      "media":  ["5.webp"],
       "remarks": []
     },
     {
@@ -944,7 +944,7 @@
       "roles": ["Photographer"],
       "additional":  ["Somewhere in BGC"],
       "filePath": "/assets/img/photography",
-      "media":  ["6.jpg"],
+      "media":  ["6.webp"],
       "remarks": []
     },
     {
@@ -956,7 +956,7 @@
       "roles": ["Photographer"],
       "additional":  ["Somewhere in BGC"],
       "filePath": "/assets/img/photography",
-      "media":  ["7.jpg"],
+      "media":  ["7.webp"],
       "remarks": []
     },
     {
@@ -968,7 +968,7 @@
       "roles": ["Photographer"],
       "additional":  ["Singing contest event"],
       "filePath": "/assets/img/photography",
-      "media":  ["8.jpg"],
+      "media":  ["8.webp"],
       "remarks": []
     },
     {
@@ -980,7 +980,7 @@
       "roles": ["Photographer"],
       "additional":  [],
       "filePath": "/assets/img/photography",
-      "media":  ["9.jpg"],
+      "media":  ["9.webp"],
       "remarks": []
     },
     {
@@ -992,7 +992,7 @@
       "roles": ["Photographer"],
       "additional":  ["School Event"],
       "filePath": "/assets/img/photography",
-      "media":  ["10.jpg"],
+      "media":  ["10.webp"],
       "remarks": []
     },
     {
@@ -1004,7 +1004,7 @@
       "roles": ["Photographer"],
       "additional":  ["Macro photography"],
       "filePath": "/assets/img/photography",
-      "media":  ["11.jpg"],
+      "media":  ["11.webp"],
       "remarks": []
     },
     {
@@ -1016,7 +1016,7 @@
       "roles": ["Photographer"],
       "additional":  [""],
       "filePath": "/assets/img/photography",
-      "media":  ["12.jpg"],
+      "media":  ["12.webp"],
       "remarks": []
     },
     {
@@ -1028,7 +1028,7 @@
       "roles": ["Photographer"],
       "additional":  [],
       "filePath": "/assets/img/photography",
-      "media":  ["13.jpg"],
+      "media":  ["13.webp"],
       "remarks": ["hide"]
     },
     {
